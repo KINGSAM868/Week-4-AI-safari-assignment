@@ -1,0 +1,21 @@
+🕵️‍♂️ Case 1: The Smart Farm That Plays Favorites with Crops
+
+What’s happening:
+A farming cooperative installs an AI system to decide where to allocate irrigation water. The AI uses satellite imagery and past yield data to recommend which fields get more water during a drought. Sounds smart — until smaller farms notice they’re always last in line.
+
+What could go wrong:
+The model favors fields with historically higher yields (often owned by wealthier farmers), unintentionally starving smaller farms. This creates an equity gap and risks community conflict.
+
+How to fix it:
+Introduce fairness rules into the AI’s decision-making — e.g., prioritizing equitable distribution alongside yield optimization. Include farmers in reviewing recommendations so local context (like soil health or community needs) isn’t ignored.
+
+🕵️‍♂️ Case 2: The Library’s AI Book Recommender with a Narrow Mind
+
+What’s happening:
+A city library launches an AI system to suggest books to readers based on past borrowing history. At first, patrons love it — until they realize it keeps pushing the same genres they’ve already read, ignoring their potential interest in new topics.
+
+What could go wrong:
+The AI creates a “reading bubble,” limiting exposure to diverse ideas and cultures. For young readers especially, this could stunt curiosity and critical thinking.
+
+How to fix it:
+Mix in serendipity mode — an intentional diversity boost that occasionally recommends books outside the user’s history. Combine data-driven suggestions with librarian-curated picks for richer variety.
